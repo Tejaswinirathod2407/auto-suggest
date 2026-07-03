@@ -2,6 +2,9 @@ const express = require('express')
 
 const app = express()
 
+//change this !!
+const PORT = process.env.PORT || 3002
+
 const PORT = 3002;
 
 //web server :
