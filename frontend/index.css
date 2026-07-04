@@ -25,3 +25,20 @@ h1{
     text-decoration: none;
     color: white;
 }
+
+#card-img{
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    margin: 0px auto;
+
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+#action{
+    text-align:center;
+}
+
+    
